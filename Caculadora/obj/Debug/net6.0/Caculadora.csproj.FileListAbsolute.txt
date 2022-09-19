@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/bin/Debug/net6.0/Caculadora
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/bin/Debug/net6.0/Caculadora.deps.json
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/bin/Debug/net6.0/Caculadora.runtimeconfig.json
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/bin/Debug/net6.0/Caculadora.dll
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/bin/Debug/net6.0/Caculadora.pdb
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.dll
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/refint/Caculadora.dll
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.pdb
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/Caculadora.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/CalculadoraSimples/Caculadora/obj/Debug/net6.0/ref/Caculadora.dll
